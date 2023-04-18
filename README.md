@@ -1,4 +1,4 @@
-
+##Relocating SIC Assembler
 Relocating SIC assembler using bitmask
 
 To execute the assembler, follow any one of the three instructions:
@@ -19,5 +19,12 @@ Two text files will be generated
 input1.txt ARRSUM. (Program to sum two arrays and store in 3rd array)
 input2.txt contains PRODUCT.(Program to multiply two numbers by repeated addition)
 input3.txt contains SUM.    (Program to sum the elements of an array)
+
+
+##Contributors
+[Ann Mariya Roy](https://github.com/Ann-M-R)
+[Divyasri](https://github.com/Divyasri-15)
+
+
 
 
