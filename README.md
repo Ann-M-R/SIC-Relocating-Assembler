@@ -1,4 +1,5 @@
-##Relocating SIC Assembler
+## Relocating SIC Assembler  
+
 Relocating SIC assembler using bitmask
 
 To execute the assembler, follow any one of the three instructions:
@@ -21,8 +22,9 @@ input2.txt contains PRODUCT.(Program to multiply two numbers by repeated additio
 input3.txt contains SUM.    (Program to sum the elements of an array)
 
 
-##Contributors
-[Ann Mariya Roy](https://github.com/Ann-M-R)
+## Contributors  
+
+[Ann Mariya Roy](https://github.com/Ann-M-R)  
 [Divyasri](https://github.com/Divyasri-15)
 
 
